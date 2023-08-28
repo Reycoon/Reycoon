@@ -1,6 +1,4 @@
-### Hi there 👋
-
-node updater.js ${{ github.repository_owner }} <themeName>
+![](https://github.com/Reycoon/Reycoon/blob/main/terminal.gif)
 
 
 <!--
